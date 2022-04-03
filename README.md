@@ -1,5 +1,3 @@
-## Welcome to helm-chart
-
 ### Helm Packaging Step
 
 ```shell
@@ -23,10 +21,10 @@ git push origin master
 # 添加仓库
  helm repo add lifengming https://lifengming.cn/helm-chart
  
- # 查看本地已经安装的仓库
+# 查看本地已经安装的仓库
  helm repo list
  
- # 卸载仓库
+# 卸载仓库
  helm repo remove ${repo}
 ```
 
