@@ -31,5 +31,5 @@ git push origin master
 ```
 
 ### Reference
-- https://helm.sh/zh/docs/helm/helm_repo_remove/
+- [https://helm.sh/zh/docs/helm/helm_repo_remove/](https://helm.sh/zh/docs/helm/helm_repo_remove/)
 
