@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-03T19:38:41.247157+08:00"
+    description: A Helm chart for Kubernetes
+    digest: ae7c076ed240d3e043794f4f79be5724193b6ec7346823fd3a085d5c989a97c5
+    name: test
+    type: application
+    urls:
+    - https://lifengming.cn/helm-chart/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-03T19:38:41.246014+08:00"
