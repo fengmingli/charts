@@ -8,7 +8,7 @@ helm create test
 helm package test/
 
 3.更新 index.yaml
- helm repo index --url https://lifengming.cn/helm-chart .
+ helm repo index --url https://lifengming.cn/charts .
  
 4.push到github
 git add .
@@ -19,7 +19,7 @@ git push origin master
 ###  Helm Packaging Install
 ```shell
 # 添加仓库
- helm repo add lifengming https://lifengming.cn/helm-chart
+ helm repo add lifengming https://lifengming.cn/charts
  
 # 查看本地已经安装的仓库
  helm repo list
